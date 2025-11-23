@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="dessert_sold">Desserts sold</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="share">Share</string>
+    <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="start_title">@string/app_name</string>
+    <string name="start_welcome_text">Welcome! Start your order.</string>
+    <string name="start_order">Start Order</string>
+    <string name="entree_menu_title">Choose an Entree</string>
+    <string name="side_dish_menu_title">Choose a Side</string>
+    <string name="accompaniment_title">Choose an Accompaniment</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="navigate_up">Back</string>
+</resources>
